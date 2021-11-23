@@ -5,4 +5,4 @@
 
 ## 자세한 코드 및 프로젝트 설명은 다음을 참조해주세요.
 
--[report](https://github.com/98-jeonghoon/BROP_Project/blob/main/report/report.docx)
+-[report](https://github.com/98-jeonghoon/BROP_Project/blob/main/report)
