@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=RCE%20POST%20EXPLOIT%20(in%20blackbox%20situation)&fontSize=40">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=RCE%20POST%20EXPLOIT%20(in%20blackbox%20situation)&fontSize=40&animation=blink">
 </div>
 
 <div align=center>
